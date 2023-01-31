@@ -1,3 +1,11 @@
+<!--
+Programą sukūrė Darius Jakaitis
+
+Šiame PHP OOP darbe panaudota: 2 Klasės ir ojektai klasėse,
+klasės paveldėjimas, konstruktorius, destruktorius ir taip pat
+html forma, css stiliaus sintaksės
+-->
+
 <?php // Jakaitis Darius
       // Objektinio programavimo užduotis
     
