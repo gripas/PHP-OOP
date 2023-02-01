@@ -72,4 +72,4 @@ Class Veiksmas {
 			return 1;
 		}
 	}
-}
+} 
