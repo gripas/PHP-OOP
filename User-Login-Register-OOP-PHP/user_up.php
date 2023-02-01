@@ -8,7 +8,6 @@
 	$laikas = date("Y-m-d h:i:s");
 	include 'header.php';
 ?>
-
     <h2>Registracijos sistema</h2>
 	<ul>
 	<?php include "navigation.php";?>  
@@ -28,7 +27,6 @@
 	  <input type="hidden" name="created" value="<?php print $laikas;?>"><br>
 	  <button>Užregistruoti</button>
 	  </form>		
-
 
 <?php include "footer.php";?>
 <script type="text/JavaScript">
