@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/4.1.3/yeti/bootstrap.css">
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
  <!-- SweetAlert2 
- https://sweetalert2.github.io/recipe-gallery/sweetalert2-react-router.html
+ //https://sweetalert2.github.io/recipe-gallery/sweetalert2-react-router.html
  -->
  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
  <style>
@@ -37,10 +37,10 @@
 	height: 30px;
 	width: 250px;
 	}
-	input[type=text]:focus,input[type=password]:focus {
+	input[type=text]:focus, input[type=password]:focus {
         outline: none;
+       color: #2d9fd9;
         border: 1px solid #d1d1d1;
-        color: #2d9fd9;
     }
  </style>
 </head>
