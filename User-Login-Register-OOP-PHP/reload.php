@@ -2,7 +2,6 @@
 ob_start();
 date_default_timezone_set("Europe/Vilnius");
 
-
 $veiksmas = $_GET['veiksmas']; 
 include 'class_user_work.php'; // nuoroda į klasę
 $action = new Veiksmas();
