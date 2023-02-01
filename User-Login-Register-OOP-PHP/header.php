@@ -36,12 +36,11 @@
 	padding-left: 10px;
 	height: 30px;
 	width: 250px;
-    }
-    
+	}
 	input[type=text]:focus,input[type=password]:focus {
-     outline: none;
-     border: 1px solid #d1d1d1;
-     color: #2d9fd9;
+        outline: none;
+        border: 1px solid #d1d1d1;
+        color: #2d9fd9;
     }
  </style>
 </head>
