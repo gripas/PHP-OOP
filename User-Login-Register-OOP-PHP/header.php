@@ -1,20 +1,26 @@
 <!DOCTYPE html>
-<html lang="en"> 
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <title>Registracijos ir prisijungimo sistema</title>
 <meta name="viewport" content="width=device-width,initial-scale=1"> 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/4.1.3/yeti/bootstrap.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<!-- bootstrap
+// https://cdnjs.cloudflare.com/ajax/libs/bootswatch/4.1.3/yeti/bootstrap.css
+-->
+<link rel="stylesheet" href="inc/css/bootstrap.css">
+<!-- jquery 
+ // https://ajax.googleapis.com/ajax/libs/jquery/js/jquery.min.js
+-->
+ <script src="inc/js/jquery.min.js"></script>
  <!-- SweetAlert2 
- //https://sweetalert2.github.io/recipe-gallery/sweetalert2-react-router.html
+ https://sweetalert2.github.io/recipe-gallery/sweetalert2-react-router.html
  -->
- <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+ <script src="inc/js/sweetalert2.min.js"></script>
  <style>
    body {
    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif; 
    }
-	button {
+   button {
 	border: 1px solid #c1c1c1;
 	border-radius: 20px;
 	font-size: 14px;
@@ -36,12 +42,13 @@
 	padding-left: 10px;
 	height: 30px;
 	width: 250px;
-	}
+    }
+    
 	input[type=text]:focus, input[type=password]:focus {
 	outline: none;
-	color: #2d9fd9;
 	border: 1px solid #d1d1d1;
-	}
+	color: #2d9fd9;
+    }
  </style>
 </head>
 <body>
