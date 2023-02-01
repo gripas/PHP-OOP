@@ -5,4 +5,3 @@
 	<li><a href='index.php'>Grįžti</a></li>
 	";
 ?>
-	 
