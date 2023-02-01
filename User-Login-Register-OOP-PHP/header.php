@@ -5,7 +5,7 @@
 <title>Registracijos ir prisijungimo sistema</title>
 <meta name="viewport" content="width=device-width,initial-scale=1"> 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/4.1.3/yeti/bootstrap.css">
- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
  <!-- SweetAlert2 
  //https://sweetalert2.github.io/recipe-gallery/sweetalert2-react-router.html
  -->
@@ -14,7 +14,7 @@
    body {
    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif; 
    }
-   button {
+	button {
 	border: 1px solid #c1c1c1;
 	border-radius: 20px;
 	font-size: 14px;
@@ -38,10 +38,10 @@
 	width: 250px;
 	}
 	input[type=text]:focus, input[type=password]:focus {
-        outline: none;
-       color: #2d9fd9;
-        border: 1px solid #d1d1d1;
-    }
+	outline: none;
+	color: #2d9fd9;
+	border: 1px solid #d1d1d1;
+	}
  </style>
 </head>
 <body>
