@@ -8,7 +8,6 @@
 	}
 include 'header.php';
 ?>
-
 <h2>Registracijos ir prisijungimo sistema</h2>
 <ul>
 <?php include "navigation.php";?>  
