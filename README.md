@@ -8,4 +8,8 @@
   In this folder created php login and registration system,
   was created using object oriented programming. Also used js code
   
-  
+  ------------------------------------------------------------------------
+# Web-template
+# Web Išdėstymas / Web Layout
+
+   Kuriant kokį mini projektą patogus karkasas 
