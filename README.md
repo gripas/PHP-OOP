@@ -1,4 +1,7 @@
 # PHP-OOP
+# matematine_progresija, tai test programa
+  matematine_progresija.php
+
 # User-Login-Register-OOP-PHP
   
   Šiame kataloge sukurtas php prisijungimo ir registracijos sistema,
